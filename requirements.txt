@@ -1,0 +1,6 @@
+flask>=2.0.0
+torch>=1.8.0
+transformers>=4.0.0
+datasets>=2.0.0
+clean-text>=0.6.0
+better-profanity>=0.7.0
