@@ -21,16 +21,16 @@ A Python service for document summarization using the BART model and Hugging Fac
 
 
 python -m venv venv
-# Windows PowerShell: .\venv\Scripts\Activate.ps1
-# macOS/Linux: source venv/bin/activate
+# Windows PowerShell: 
+.\venv\Scripts\Activate.ps1
+# macOS/Linux: 
+source venv/bin/activate
 
 
 3. Install dependencies:
 
 pip install -r requirements.txt
 
-
-## Usage
 
 ### Training
 
